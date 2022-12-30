@@ -1,0 +1,22 @@
+body{
+   background: linear-gradient(#08f948 50% , #072cfa 50%); 
+}
+#ps{
+    font-weight: 900;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gf{
+    font-weight: 900;   
+}
+iframe{
+    padding-left: 30px;
+}
+.f{
+    font-weight: 900;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
